@@ -1,0 +1,11 @@
+This is a very basic version of line follower. The vehicle just utilizes 2 of it's 5 available IR sensors to sense distraction from the line and reposition it. Since it's using just conditionals and simple if-else algorithm, speed and accuracy is very low here. 
+
+___________________________________________
+
+Version 2. 
+
+In this version we introduce mobile app control for the car. 
+1. We'll receive the values of IR sensor and send it
+to the mobile app for monitoring and fine tuning. 
+
+There'll be a button to start and stop the car while following line. 

@@ -1,0 +1,9 @@
+boolean focussed(float x, float y, float l, float b)
+{
+  
+  if(  (mouseX > x && mouseX< x + l ) && (mouseY > y  && mouseY < y + b)  )
+  {
+    return true; 
+  }
+  return false; 
+}

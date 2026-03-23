@@ -1,0 +1,1 @@
+This is a very basic version of light follower. The vehicle just utilizes 2 of it's 5 available IR sensors to sense distraction from the line and reposition it. Since it's using just conditionals and simple if-else algorithm, speed and accuracy is very low here. 
